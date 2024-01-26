@@ -1,7 +1,19 @@
-.background {
+header {
+    background-color: #ECECEC;
+}
+
+.Infomation {
+    background-color: #ECECEC;
+}
+
+.banner {
     background-color: #2F303A;
 }
 
 footer {
     background-color: #2F303A;
+}
+
+.team {
+    background-color: #F5F4FA;
 }
